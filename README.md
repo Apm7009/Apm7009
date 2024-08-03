@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anujmhatre11" target="blank"><img src="https://img.shields.io/twitter/follow/anujmhatre11?logo=twitter&style=for-the-badge" alt="anujmhatre11" /></a> </p>
 
-- 🔭 I’m currently working on **Cyber security**
+- 🔭 I’m currently working on **Information security**
 
-- 🌱 I’m currently learning **Network Penetration Testing**
+- 🌱 I’m currently learning **CEH**
 
 - 📫 How to reach me **anujpm1811@gmail.com**
 
